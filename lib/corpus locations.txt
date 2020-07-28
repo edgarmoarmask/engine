@@ -1,0 +1,6 @@
+ontonotes 5.0:
+https://github.com/ontonotes/conll-formatted-ontonotes-5.0
+https://github.com/taotao033/conll-formatted-ontonotes-5.0_for_chinese_language
+
+conll2012:
+https://github.com/clab/att-coref
